@@ -78,6 +78,14 @@ tbody td:nth-child(2) .percent{
   animation: barOne .4s linear;
   -webkit-animation:barOne .4s linear;
 }
+.three .fill{
+    width:0%;
+    background:green;
+    border-radius:1px;
+    animation: barOne .4s linear;
+    -webkit-animation:barOne .4s linear;
+  }
+  
 @keyframes barOne{
   0%{width:0%;}
   100%{}
