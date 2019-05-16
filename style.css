@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, p{
 }
 table{
   width:100%;
-   background: rgb(158, 164, 165);
+  background: rgb(158, 164, 165);
   color: rgb(10, 10, 10);
 }
 thead tr td{
